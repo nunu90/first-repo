@@ -1,7 +1,5 @@
 this is v1.4.3 change
 nuel add this line of text
-<<<<<<< HEAD
 nuel make line that will conflict
-=======
 v1.4.3 do change in the same line to conflict with nuel branch
->>>>>>> 2b4c4ffad713b66931f921ce9fa7a79ace449042
+again add line 
