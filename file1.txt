@@ -1,6 +1,5 @@
 this is v1.4.3 change
 nuel add this line of text
-nuel make line that will conflict
 v1.4.3 do change in the same line to conflict with nuel branch
-again add line 
-again 
+some
+body
